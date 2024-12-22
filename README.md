@@ -2,4 +2,4 @@
 ==============================
 - Fast Injecting
 - Bypassing Byfron Anticheat
-- if you got any problems: discord.ru /fjda813d
+- if you got any problems: discord.com/f4ur1f4
